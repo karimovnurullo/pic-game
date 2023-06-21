@@ -1,3 +1,2 @@
-export { default as Left } from "./left";
-export { default as Right } from "./right";
-export { default as Main } from "./main";
+export { default as Board } from "./board";
+export { default as NewGame } from "./new-game";

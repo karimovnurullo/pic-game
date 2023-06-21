@@ -124,7 +124,17 @@
 
 
 #root {
-	background-color: #0d1013;
 	color: #B4B5B6;
-	// font-family: var(--font-pally), sans-serif;
+	width: 100%;
+	height: 100vh;
+	background-image: linear-gradient(to top left, #753682 0%, #bf2e34 100%);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	user-select: none;
+	font-family: var(--font-pally), sans-serif;
+}
+
+.bg-board {
+	background-color: #B57A9D;
 }
